@@ -1,6 +1,6 @@
 [package]
 name = "cli-pass"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["dp"]
 description = "Generate all types of passwords just using simple cli tool"
